@@ -5,7 +5,8 @@ remove_columns: pega todos os arquivos que contém determinada palavra e remove 
 uniq_rows: remove linhas duplicadas tomando como parâmetro a coluna desejada;
 
 
-**para executar o script de qualquer diretório basta seguir os passos listados abaixo:**
+
+**Para executar o script de qualquer diretório basta seguir os passos listados abaixo:**
 
   chmod a+x <nome_do_script>
   
