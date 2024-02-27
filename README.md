@@ -4,9 +4,10 @@ remove_columns: pega todos os arquivos que contém determinada palavra e remove 
 
 uniq_rows: remove linhas duplicadas tomando como parâmetro a coluna desejada;
 
+remove_regex: remove expressão regular de um csv
 
 
-**Para executar o script de qualquer diretório basta seguir os passos listados abaixo:**
+**Para executar os scripts bash de qualquer diretório basta seguir os passos listados abaixo:**
 
   chmod a+x <nome_do_script>
   
